@@ -2,5 +2,5 @@ Desafios feitos para melhorar minhas habilidades com java
 
 | Desafios | concluidos |
 |----------|:-------------:|
-| shaulin biblioteca | ✅ |
+| shaulin biblioteca | [✅](Desafios/src/desafioBibliotecaShaulin) |
 | | |
